@@ -32,7 +32,7 @@ int main() {
     int n;
     cin >> n;
     
-    //ваш код
+    //code
     for(n; n>0; n--){
         cout << n << endl;
     
